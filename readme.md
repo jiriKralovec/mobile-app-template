@@ -39,3 +39,29 @@ To run the unit tests and watch for file changes during development, run:
 ```
 npm run test.watch
 ```
+
+# Building native apps
+
+To add a new platform, run:
+
+```
+npx cap add android
+```
+
+If platform was not installed before, run
+
+```
+npm install @capacitor/android
+```
+
+To update platform with your changes, run:
+
+```
+npx cap sync
+```
+
+To open native project, run:
+
+```
+npx cap open android
+```
