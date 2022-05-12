@@ -1,0 +1,6 @@
+{
+  "appId": "com.jirikralovec.mobileapptemplate",
+  "appName": "mobile-app-template",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
