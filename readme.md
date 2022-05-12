@@ -65,3 +65,9 @@ To open native project, run:
 ```
 npx cap open android
 ```
+
+**Don't forget to replace AppId! Find this ID to replace:**
+
+```
+com.jirikralovec.mobileapptemplate
+```
